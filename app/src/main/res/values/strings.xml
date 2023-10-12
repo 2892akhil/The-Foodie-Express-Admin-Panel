@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">The Foodie Express The Admin Panel</string>
+    <string name="appName">The Foodie Express</string>
+    <string name="next">Next</string>
+    <string name="login_to_your_account">Login To Your \n Admin Dashboard</string>
+    <string name="deliverFood">Deliver Favorite Food</string>
+    <string name="choose_location">Choose Location</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="food_name">Food Name</string>
+    <string name="paisa">$5</string>
+    <string name="add_to_cart">Add To Cart</string>
+</resources>
